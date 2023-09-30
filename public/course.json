@@ -1,0 +1,67 @@
+[
+    {
+        "id":"123451",
+        "name" : "Basic Math",
+        "cetegoriId" : "math",
+        "picture":"https://i.ibb.co/QJ2wx8X/basicmath.jpg",
+        "description":"Basic math skills are those that involve making calculations of amounts, sizes or other measurements. Core concepts like addition, subtraction, multiplication and division provide a foundation for learning and using more advanced math concepts.",
+        "Instructor_name":"Kathleen",
+        "Price":"100"
+    },
+    {
+        "name" : "Math Problem Solving",
+        "cetegoriId" : "math",
+        "picture":"https://i.ibb.co/tCCm6LY/problemsolving.jpg",
+        "description":"Problem-Solving involves using the knowledge gained in Understanding, along with the intelligent practice and experience gained from Fluency, in order to inform your Reasoning and formulate a strategy in order to solve the problem.",
+        "Instructor_name":"Kathleen",
+        "Price":"250",
+        "id":"123452"
+    },
+    {
+        "name" : "Basic Grammar",
+        "cetegoriId" : "english",
+        "picture":"https://i.ibb.co/hfBK5CT/grammer.jpg",
+        "description":"English grammar is the set of structural rules of the English language. This includes the structure of words, phrases, clauses, sentences, and whole texts.",
+        "Instructor_name":"David",
+        "Price":"250",
+        "id":"123453"
+    },
+    {
+        "name" : "Spoken English",
+        "cetegoriId" : "english",
+        "picture":"https://i.ibb.co/tBJ7h5W/spoken.jpg",
+        "description":"This course emphasizes the development of fluency and intelligibility in spoken English. Through individual and group activities, students work on improving pronunciation, practicing conversation strategies and delivering oral presentations.",
+        "Instructor_name":"David",
+        "Price":"400",
+        "id":"123454"
+    },
+    {
+        "name" : "Learn English",
+        "cetegoriId" : "english",
+        "picture":"https://i.ibb.co/6YxZ6qc/learn.jpg",
+        "description":"It aims at integrating all four skills (reading, writing, speaking and listening) by using a balance of grammar, vocabulary, speaking and skills work to develop students' communicative competence via highly motivational activities. This level particularly develops students' grammar and reading.",
+        "Instructor_name":"David",
+        "Price":"450",
+        "id":"123455"
+    },
+    {
+        "name" : "Basic Knowledge Of computer",
+        "cetegoriId" : "computer",
+        "picture":"https://i.ibb.co/BgtSTjC/computerknow.jpg",
+        "description":"Basic computer knowledge is about how computers work and how to use them. This may include typing, learning keyboard commands, powering a computer on and off, knowing how to connect and disconnect the Internet to a computer. It can help you understand different operating systems and application software.",
+        "Instructor_name":"Ethan",
+        "Price":"350",
+        "id":"123456"
+    },
+    {
+        "name" : "Learn MS word & Exel",
+        "cetegoriId" : "computer",
+        "picture":"https://i.ibb.co/PhTSL4v/word-exel.jpg",
+        "description":"MS Word is a word processor developed by Microsoft Used to make professional-quality documents, letters, reports, etc. Definition: MS Excel is a spreadsheet program where one can record data in the form of tables. Uses: Writing letters, essays, documents.",
+        "Instructor_name":"Ethan",
+        "Price":"350",
+        "id":"123457"
+    }
+
+    
+]
